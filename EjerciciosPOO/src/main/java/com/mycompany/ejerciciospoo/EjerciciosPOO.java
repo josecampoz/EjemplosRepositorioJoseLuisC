@@ -4,6 +4,8 @@
 
 package com.mycompany.ejerciciospoo;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Unicomfacauca
@@ -11,6 +13,7 @@ package com.mycompany.ejerciciospoo;
 public class EjerciciosPOO {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Ingresar nombre");
+        Scanner teclado = new Scanner(source)
     }
 }
